@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url('ph/xx.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#main {
+    margin-top: 50px;
+}
+
+.ui {
+    display: inline-block;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+}
+
